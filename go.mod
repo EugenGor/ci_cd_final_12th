@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/42-docker-final
+module github.com/EugenGor/ci_cd_final_12th
 
 go 1.22.1
 
