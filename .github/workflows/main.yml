@@ -35,7 +35,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5.5.1
         with:
-          images: alexnosov/final-CI-CD
+          images: eugengor/ci_cd_final_12th
 
       - name: Build and push Docker Inage
         uses: docker/build-push-action@v5
